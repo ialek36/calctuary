@@ -1,0 +1,5 @@
+*.class
+platforms/android/ant-build/*
+platforms/android/*
+platforms/ios/*
+plugins/*
